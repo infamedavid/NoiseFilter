@@ -28,7 +28,7 @@ Un elemento importante a considerar es que la lluvia no ejerce un efecto instant
 
 ## Fundamento Matemático: Tensión Superficial
 
-En el contexto del **Rain Filter**, el significado de **tensión superficial digital**: es la resistencia que ofrece cada punto de la señal (o de la malla en el Rain smooth) frente a la energía de la gota.
+En el contexto del **Rain Filter**, el significado de **tensión superficial digital**: se define como la resistencia que ofrece cada punto (sample en DSPo de la malla en el Rain smooth) frente a la energía de la gota.
 
 * **Alta tensión superficial** → la superficie es difícil de deformar; la gota apenas actúa.
 * **Baja tensión superficial** → la cresta presenta poca resistencia; la gota tiene gran efecto.
