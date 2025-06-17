@@ -103,7 +103,7 @@ Si la señal es unipolar, basta con fijar $\text{dir}(n) = -1$, lo que equivale 
 * Envía un porcentaje de la señal filtrada al paso 2; itera.
 
 **Disipación Secundaria (slew limiter)**
-* Limita la velocidad máxima de cambio para emular relajación física.
+* Limita la velocidad máxima de cambio para emular relajación física , la tendencia de los fluidos a ir al estado de minima energia.
 
 ---
 
