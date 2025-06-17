@@ -127,7 +127,8 @@ Aunque el efecto final puede recordar a un filtro de paso bajo, lo más valioso 
 
 ## Aplicaciones fuera del campo del DSP
 El algoritmo del Rain Filter ha sido implementado de forma temprana con éxito en el suavizado de mallas poligonales, proponiendo un enfoque de suavizado en el que el ruido aleatorio actúa como filtro emergente. A diferencia de métodos deterministas, las gotas actúan de forma inversa a la fase del vector normal: las crestas se erosionan y los valles **se rellenan**, reflejando la acción de una fuerza que los empuja hacia un punto de equilibrio. El resultado final es un suavizado global, pero lo interesante del método reside en los pasos intermedios y su aleatoriedad controlada.
-[https://github.com/infamedavid/PureRainSmooth](https://github.com/infamedavid/PureRainSmooth)
+
+[PureRainSmooth](https://github.com/infamedavid/PureRainSmooth)
 
 ---
 
