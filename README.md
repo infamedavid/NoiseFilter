@@ -108,7 +108,7 @@ Una fracción (`feedback`) de la señal procesada vuelve a la etapa de tensión 
 
 Esta iteración gradual no solo es una necesidad técnica: es parte esencial del efecto buscado. A diferencia de un filtro pasabajo convencional, aquí el interés no reside únicamente en el resultado final (una forma suavizada), sino en la **evolución intermedia: las pequeñas deformaciones, las microacciones, la textura viva del proceso**.
 
-### Paso 8 – Disipación secundaria (nivelación termodinámica)
+### Paso 8 – Disipación secundaria
 
 Para simular el comportamiento físico de los fluidos —su tendencia a buscar un estado de mínima energía—, se añade una etapa opcional de suavizado correctivo posterior al filtro.
 Se implementa como un **slew limiter digital**, que impone una velocidad máxima de cambio entre muestras consecutivas. Esta etapa no aplica nueva fuerza, sino que reduce gradualmente los excesos residuales, como haría un sistema físico al estabilizarse naturalmente.
