@@ -133,6 +133,7 @@ El algoritmo del Rain Filter ha sido implementado de forma temprana con éxito e
 ---
 
 ## Conclusión
-Inspirarse en fenómenos naturales como la lluvia y el mar no solo es poético: también puede ser profundamente útil como base para procesos algorítmicos. La propuesta del Rain Filter ofrece una alternativa original a los delays filtrados clásicos, incorporando aleatoriedad, adaptabilidad, y un vínculo con el comportamiento físico del mundo.
-Es importante destacar que, aunque ya se han explorado estas ideas en implementaciones prácticas como Rain Smooth sobre mallas, su aplicación en procesamiento digital de señales (DSP) sigue en el terreno especulativo.
+
+Inspirarse en fenómenos naturales como la lluvia y el mar no solo es poético: también puede ser profundamente útil como base para procesos algorítmicos. La propuesta del Rain Filter ofrece una alternativa original a los delays filtrados clásicos, incorporando aleatoriedad, adaptabilidad, y un vínculo con el comportamiento físico del mundo. Es importante destacar que, aunque ya se han explorado estas ideas en implementaciones prácticas como Rain Smooth sobre mallas, su aplicación en procesamiento digital de señales (DSP) sigue en el terreno especulativo.
+
 ---
