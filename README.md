@@ -1,5 +1,6 @@
 # Rain Filter (Noise Filter)
 **Autor:** David Rodríguez
+
 Usar el ruido direccionado como fuerza disipadora inspirada en la física del mundo real.
 
 ## Introducción
